@@ -1,0 +1,14 @@
+@import 'vxe-table/styles/variable';
+
+// 修改样式变量
+@import 'variable';
+
+@import 'vxe-table/styles/modules';
+
+// 修改vxe插件样式
+@import 'header';
+
+@import 'grid';
+@import 'toolbar';
+@import 'button';
+@import 'modal';
